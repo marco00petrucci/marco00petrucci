@@ -29,7 +29,8 @@ I'm currently studying <b>Digital Humanities</b> at <b>University of Pisa</b>. I
 ### :rocket: My Websites:
 <img src="https://www.carnevalari.it/wp-content/uploads/icona%20caricamento%20burlamacca.gif" width="20px" align="center" /> Carnevalari's site: https://www.carnevalari.it<br>
 <img src="https://www.yoseikanviareggio.it/wp-content/uploads/2022/10/Logo-Yoseikan.png" width="20px" align="center" /> A.S.D. Yoseikan Viareggio's site: https://www.yoseikanviareggio.it<br>
-<img src="https://i0.wp.com/www.lamareggiata.it/wp-content/uploads/2023/03/Logo-La-Mareggiata.png" width="20px" align="center" /> La Mareggiata's site: https://www.lamareggiata.it/
+<img src="https://www.mcstudiotecnico.com/wp-content/uploads/2023/04/icona_sito.png" width="20px" align="center" /> MC Studio Tecnico's site: https://www.mcstudiotecnico.com<br>
+<img src="https://i0.wp.com/www.lamareggiata.it/wp-content/uploads/2023/03/Logo-La-Mareggiata.png" width="20px" align="center" /> La Mareggiata's site: https://www.lamareggiata.it
 
 ---
 ### :hammer_and_wrench: Languages and Tools:
@@ -65,7 +66,7 @@ I'm currently studying <b>Digital Humanities</b> at <b>University of Pisa</b>. I
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Opera_2015_icon.svg" title="Opera" alt="Opera" width="40" />&ensp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" title="Instagram" alt="Instagram" width="40" />&ensp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" title="Facebook" alt="Facebook" width="40" />&ensp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_Twitter%2C_Inc..svg" title="Twitter" alt="Twitter" width="40" />&ensp;
+<img src="https://logodownload.org/wp-content/uploads/2023/07/x-corp-logo-0.png" title="X" alt="X" width="40" />&ensp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" />&ensp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" title="Terminal" alt="Terminal" width="40" />
 
