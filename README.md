@@ -28,9 +28,11 @@ I'm currently studying <b>Digital Humanities</b> at <b>University of Pisa</b>. I
 ---
 ### :rocket: My Websites:
 <img src="https://www.carnevalari.it/wp-content/uploads/icona%20caricamento%20burlamacca.gif" width="20px" align="center" /> Carnevalari's site: https://www.carnevalari.it<br>
+<img src="https://www.wikicarnevaleviareggio.it/apple-touch-icon.png" width="20px" align="center" /> WikiCarnevaleViareggio's site: https://www.wikicarnevaleviareggio.it/<br>
 <img src="https://www.yoseikanviareggio.it/wp-content/uploads/2022/10/Logo-Yoseikan.png" width="20px" align="center" /> A.S.D. Yoseikan Viareggio's site: https://www.yoseikanviareggio.it<br>
 <img src="https://www.mcstudiotecnico.com/wp-content/uploads/2023/04/icona_sito.png" width="20px" align="center" /> MC Studio Tecnico's site: https://www.mcstudiotecnico.com<br>
-<img src="https://i0.wp.com/www.lamareggiata.it/wp-content/uploads/2023/03/Logo-La-Mareggiata.png" width="20px" align="center" /> La Mareggiata's site: https://www.lamareggiata.it
+<img src="https://www.lamareggiata.it/wp-content/uploads/2023/03/Logo-La-Mareggiata.png" width="20px" align="center" /> La Mareggiata's site: https://www.lamareggiata.it<br>
+<img src="https://bibliotecadonfrancorossi.altervista.org/wp-content/uploads/2023/05/favicon.png" width="20px" align="center" /> Biblioteca don Franco Rossi's site: [https://bibliotecadonfrancorossi.altervista.org/](https://bibliotecadonfrancorossi.altervista.org/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools:
