@@ -15,27 +15,35 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
-  <h1>Hi there, I'm Marco! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Github logo"/>
+  <h1>Hi there, I'm Marco! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hands" /></h1>
 </div>
 
-### :technologist: About Me:
-<!--<img src="https://komarev.com/ghpvc/?username=marco00petrucci&style=flat-square&color=blue" alt=""/>-->
-I'm currently studying <b>Digital Humanities</b> at <b>University of Pisa</b>. In my spare time I create websites for companies: my intention is to become a web designer and help people to satisfy their needs.
+### :technologist: About Me
+
+<!-- <img src="https://komarev.com/ghpvc/?username=marco00petrucci&style=flat-square&color=blue" alt="profile views"/><br> -->
+
+- **Bachelor's Degree in Digital Humanities** at University of Pisa on July 11, 2024.
+
+In my spare time I create websites for companies: my intention is to become a web designer and help people to satisfy their needs.
 
 🌐 Languages: Italian, English, French, German.
 
 ---
-### :rocket: My Websites:
-<img src="https://www.carnevalari.it/wp-content/uploads/icona%20caricamento%20burlamacca.gif" width="20px" align="center" /> Carnevalari's site: https://www.carnevalari.it<br>
-<img src="https://www.wikicarnevaleviareggio.it/apple-touch-icon.png" width="20px" align="center" /> WikiCarnevaleViareggio's site: https://www.wikicarnevaleviareggio.it/<br>
-<img src="https://www.mcstudiotecnico.com/wp-content/uploads/2023/04/icona_sito.png" width="20px" align="center" /> MC Studio Tecnico's site: https://www.mcstudiotecnico.com<br>
-<img src="https://www.yoseikanviareggio.it/wp-content/uploads/2022/10/Logo-Yoseikan.png" width="20px" align="center" /> A.S.D. Yoseikan Viareggio's site: https://www.yoseikanviareggio.it<br>
-<img src="https://lamareggiata.altervista.org/wp-content/uploads/2023/03/Logo-La-Mareggiata.webp" width="20px" align="center" /> La Mareggiata's site: https://lamareggiata.altervista.org/<br>
-<img src="https://bibliotecadonfrancorossi.altervista.org/wp-content/uploads/2023/05/favicon.png" width="20px" align="center" /> Biblioteca don Franco Rossi's site: https://bibliotecadonfrancorossi.altervista.org/
+
+### :rocket: My Websites
+
+<img src="https://www.wikicarnevaleviareggio.it/img/icone_sito/apple-touch-icon.png" width="20" align="center" alt="Icona WikiCarnevaleViareggio" /> WikiCarnevaleViareggio's site: https://www.wikicarnevaleviareggio.it/<br>
+<img src="https://www.carnevalari.it/wp-content/uploads/icona%20caricamento%20burlamacca.gif" width="20" align="center"  alt="Icona Burlamacca" /> Carnevalari's site: https://www.carnevalari.it<br>
+<img src="https://www.mcstudiotecnico.com/wp-content/uploads/2023/04/icona_sito.png" width="20" align="center"  alt="Icona MC Studio Tecnico" /> MC Studio Tecnico's site: https://www.mcstudiotecnico.com<br>
+<img src="https://www.yoseikanviareggio.it/wp-content/uploads/2022/10/Logo-Yoseikan.png" width="20" align="center"  alt="Icona Yoseikan" /> A.S.D. Yoseikan Viareggio's site: https://www.yoseikanviareggio.it<br>
+<img src="https://lamareggiata.altervista.org/wp-content/uploads/2023/03/Logo-La-Mareggiata.webp" width="20" align="center"  alt="Icona La Mareggiata" /> La Mareggiata's site: https://lamareggiata.altervista.org/<br>
+<img src="https://bibliotecadonfrancorossi.altervista.org/wp-content/uploads/2023/05/favicon.png" width="20" align="center"  alt="Icona Biblioteca don Franco Rossi" /> Biblioteca don Franco Rossi's site: https://bibliotecadonfrancorossi.altervista.org/
 
 ---
-### :hammer_and_wrench: Languages and Tools:
+
+### :hammer_and_wrench: Languages and Tools
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" />&ensp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" />&nbsp;
@@ -50,9 +58,9 @@ I'm currently studying <b>Digital Humanities</b> at <b>University of Pisa</b>. I
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angularjs" alt="Angularjs" width="40" />&ensp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" />&ensp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" title="Android" alt="Android" width="40" />&ensp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" alt="Linux" width="40" height="40px" />&ensp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" alt="Linux" width="40" height="40" />&ensp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" title="Apple" alt="Apple" width="40" />&ensp;
-<img src="https://rabisankar.co.in/assets/vendors/canonical/CoF-2022.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40px" />&nbsp;
+<img src="https://rabisankar.co.in/assets/vendors/canonical/CoF-2022.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" />&nbsp;
 <img src="https://www.svgrepo.com/show/349342/docker.svg" title="Docker" alt="Docker" width="40" />&ensp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" />&ensp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" />&ensp;
@@ -76,26 +84,32 @@ I'm currently studying <b>Digital Humanities</b> at <b>University of Pisa</b>. I
 
 ---
 
-### 📊 My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marco00petrucci&theme=dark&mode=weekly)](https://git.io/streak-stats)&ensp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marco00petrucci&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marco00petrucci&show_icons=true&theme=gradient)-->
+### 📊 My Stats
 
-<!--
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=marco00petrucci&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marco00petrucci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marco00petrucci&theme=dark&mode=weekly)](https://git.io/streak-stats)&ensp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marco00petrucci&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marco00petrucci&show_icons=true&theme=gradient)-->
+
 ### 🌐 Reach me on Socials
-<a href="https://www.facebook.com/marco00petrucci">
-  <img src="https://img.shields.io/badge/Facebook-1778F2?logo=facebook&logoColor=white&style=for-the-badge"
-    alt="Facebook Badge" />
-</a>
-<a href="https://www.instagram.com/marco00petrucci">
-  <img src="https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=for-the-badge"
-    alt="Instagram Badge" />
-</a>
-<a href="https://www.youtube.com/@marco00petrucci">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
-    alt="Youtube Badge" />
-</a>
-<a href="https://www.twitter.com/marco00petrucci">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
-    alt="Twitter Badge" />
-</a>-->
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/marco00petrucci/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@marco00petrucci" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/marco00petrucci" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/marco00petrucci" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
+  </a>
+</div>
+
+![Snake animation](https://profile-readme-generator.com/assets/snake.svg)
