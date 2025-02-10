@@ -33,9 +33,10 @@ In my spare time I create websites for companies: my intention is to become a we
 
 ### :rocket: My Websites
 
-<img src="https://www.wikicarnevaleviareggio.it/img/icone_sito/apple-touch-icon.png" width="20" align="center" alt="Icona WikiCarnevaleViareggio" /> WikiCarnevaleViareggio's site: https://www.wikicarnevaleviareggio.it/<br>
+<img src="https://www.wikicarnevaleviareggio.it/img/icone_sito/apple-touch-icon.png" width="20" align="center" alt="Icona WikiCarnevaleViareggio" /> WikiCarnevaleViareggio's site: https://wikicarnevaleviareggio.it/<br>
 <img src="https://www.carnevalari.it/wp-content/uploads/icona%20caricamento%20burlamacca.gif" width="20" align="center"  alt="Icona Burlamacca" /> Carnevalari's site: https://www.carnevalari.it<br>
 <img src="https://www.mcstudiotecnico.com/wp-content/uploads/2023/04/icona_sito.png" width="20" align="center"  alt="Icona MC Studio Tecnico" /> MC Studio Tecnico's site: https://www.mcstudiotecnico.com<br>
+<img src="https://pausamassaggio.com/wp-content/uploads/2024/08/pittogramma-pausa-massaggio.png" width="20" align="center"  alt="Icona Pausa Massaggio" /> Pausa Massaggio's site: https://pausamassaggio.com<br>
 <img src="https://www.yoseikanviareggio.it/wp-content/uploads/2022/10/Logo-Yoseikan.png" width="20" align="center"  alt="Icona Yoseikan" /> A.S.D. Yoseikan Viareggio's site: https://www.yoseikanviareggio.it<br>
 <img src="https://lamareggiata.altervista.org/wp-content/uploads/2023/03/Logo-La-Mareggiata.webp" width="20" align="center"  alt="Icona La Mareggiata" /> La Mareggiata's site: https://lamareggiata.altervista.org/<br>
 <img src="https://bibliotecadonfrancorossi.altervista.org/wp-content/uploads/2023/05/favicon.png" width="20" align="center"  alt="Icona Biblioteca don Franco Rossi" /> Biblioteca don Franco Rossi's site: https://bibliotecadonfrancorossi.altervista.org/
