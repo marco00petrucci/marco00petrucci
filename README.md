@@ -33,14 +33,15 @@ In my spare time I create websites for companies: my intention is to become a we
 
 ### :rocket: My Websites
 
-<img src="https://www.wikicarnevaleviareggio.it/img/icone_sito/apple-touch-icon.png" width="20" align="center" alt="Icona WikiCarnevaleViareggio" /> WikiCarnevaleViareggio's site: https://wikicarnevaleviareggio.it/<br>
+<img src="https://wikicarnevaleviareggio.it/img/icone_sito/apple-touch-icon.png" width="20" align="center" alt="Icona WikiCarnevaleViareggio" /> WikiCarnevaleViareggio's site: https://wikicarnevaleviareggio.it<br>
 <img src="https://www.carnevalari.it/wp-content/uploads/icona%20caricamento%20burlamacca.gif" width="20" align="center"  alt="Icona Burlamacca" /> Carnevalari's site: https://www.carnevalari.it<br>
-<img src="https://www.mcstudiotecnico.com/wp-content/uploads/2023/04/icona_sito.png" width="20" align="center"  alt="Icona MC Studio Tecnico" /> MC Studio Tecnico's site: https://www.mcstudiotecnico.com<br>
-<img src="https://pausamassaggio.com/wp-content/uploads/2024/08/pittogramma-pausa-massaggio.png" width="20" align="center"  alt="Icona Pausa Massaggio" /> Pausa Massaggio's site: https://pausamassaggio.com<br>
 <img src="https://www.yoseikanviareggio.it/wp-content/uploads/2022/10/Logo-Yoseikan.png" width="20" align="center"  alt="Icona Yoseikan" /> A.S.D. Yoseikan Viareggio's site: https://www.yoseikanviareggio.it<br>
-<img src="https://lamareggiata.altervista.org/wp-content/uploads/2023/03/Logo-La-Mareggiata.webp" width="20" align="center"  alt="Icona La Mareggiata" /> La Mareggiata's site: https://lamareggiata.altervista.org/<br>
+<img src="https://pausamassaggio.com/wp-content/uploads/2024/08/pittogramma-pausa-massaggio.png" width="20" align="center"  alt="Icona Pausa Massaggio" /> Pausa Massaggio's site: https://pausamassaggio.com<br>
+<img src="https://refridj.com/wp-content/uploads/2025/03/cropped-favicon.png" width="20" align="center"  alt="Icona RefriDJ" /> RefriDJ's site: https://refridj.com<br>
+<img src="https://www.futsalentertainment.it/wp-content/uploads/2025/06/cropped-favicon.png" width="20" align="center"  alt="Icona Futsal Entertainment" /> Futsal Entertainment's site: https://www.futsalentertainment.it<br>
+<img src="https://www.mcstudiotecnico.com/wp-content/uploads/2023/04/icona_sito.png" width="20" align="center"  alt="Icona MC Studio Tecnico" /> MC Studio Tecnico's site: https://www.mcstudiotecnico.com<br>
 <img src="https://bibliotecadonfrancorossi.altervista.org/wp-content/uploads/2023/05/favicon.png" width="20" align="center"  alt="Icona Biblioteca don Franco Rossi" /> Biblioteca don Franco Rossi's site: https://bibliotecadonfrancorossi.altervista.org/<br>
-<img src="https://refridj.com/wp-content/uploads/2025/03/cropped-favicon.png" width="20" align="center"  alt="Icona RefriDJ" /> RefriDJ's site: https://refridj.com/
+<img src="https://lamareggiata.altervista.org/wp-content/uploads/2023/03/Logo-La-Mareggiata.webp" width="20" align="center"  alt="Icona La Mareggiata" /> La Mareggiata's site: https://lamareggiata.altervista.org
 
 ---
 
@@ -89,13 +90,12 @@ In my spare time I create websites for companies: my intention is to become a we
 ### 📊 My Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=marco00petrucci&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marco00petrucci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marco00petrucci&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8" alt="marco00petrucci" height="150" />
+  <a href="https://streak-stats.demolab.com/demo/"><img src="https://streak-stats.demolab.com?user=marco00petrucci&theme=dark&border_radius=5" alt="GitHub Streak" height="150" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=marco00petrucci&show_icons=true&locale=en&theme=dark" alt="marco00petrucci" height="150" />
 </div>
 
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marco00petrucci&theme=dark&mode=weekly)](https://git.io/streak-stats)&ensp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marco00petrucci&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marco00petrucci&show_icons=true&theme=gradient)-->
+---
 
 ### 🌐 Reach me on Socials
 
